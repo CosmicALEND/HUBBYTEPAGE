@@ -352,3 +352,12 @@ footer .container{
         background-position-x: calc(100vw - 800px);
     }
 }
+
+
+.form {
+
+    width: 350px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
