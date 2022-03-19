@@ -187,7 +187,8 @@ header a:hover{
 
 #listcont{
     background-color: blue;
-    align-items: center;
+    
+    align-items: flex-start;
 }
 
 #final h2{
